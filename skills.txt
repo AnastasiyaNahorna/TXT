@@ -1,0 +1,9 @@
+Basic theory: What is testing, bug reports, documentation
+HTTP: Methods of requests to the server
+API testing via Postman: JS, API autotests
+SQL: Create, Delete, Drop, Insert Into, Select, From, Where, Join
+
+
+
+
+
