@@ -1,0 +1,4 @@
+favorite_movie: The Shawshank Redemption
+favorite_food: Pizza
+favorite_season: Autumn
+place _to_visit: Japan
